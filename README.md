@@ -1,5 +1,7 @@
 # CARSOME Financing Analysis Portfolio
 
+https://carsome-financing-analysis.streamlit.app/Loan_Slash_Analysis
+
 An end-to-end data analytics portfolio project exploring financing performance, process conversion, financier-level outcomes, disbursement waiting time, loan amount reductions, and cancellation patterns.
 
 The project combines SQL-based analysis, Python data preparation, and an interactive Streamlit application to turn order-level data and analytical extracts into business-oriented views.
