@@ -1,0 +1,11 @@
+order_status,financier_field_status,total_orders,financing_cases,approved_cases,accepted_cases,submitted_cases,received_cases,completed_cases,missing_financier_orders
+"Pending Bank Decision","Missing / Blank",163,163,0,0,0,0,0,163
+"Pending E-hak Milik","Financier Identified",42,42,42,42,0,0,0,0
+"Pending Customer Acceptance","Missing / Blank",68,68,65,0,0,0,0,68
+"Order Completed","Financier Identified",824,824,824,824,728,409,824,0
+"Order Cancelled","Missing / Blank",497,497,101,0,0,0,0,497
+"Pending Pay","Financier Identified",17,17,17,17,1,1,0,0
+"Pending Deliver","Financier Identified",8,8,8,8,1,0,0,0
+"Order Cancelled","Financier Identified",22,22,22,22,0,0,0,0
+"Order Closed","Financier Identified",420,420,420,420,418,409,0,0
+"Money Back","Financier Identified",1,1,1,1,1,0,0,0
