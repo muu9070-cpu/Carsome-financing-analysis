@@ -10,7 +10,7 @@
 > analysis, operational diagnostics, and interactive dashboard
 > development. It is not an official CARSOME publication.
 
-[**View Live Dashboard**](ADD_YOUR_STREAMLIT_APP_URL_HERE) · [**View
+[**View Live Dashboard**](https://carsome-financing-analysis.streamlit.app/) · [**View
 GitHub
 Repository**](https://github.com/muu9070-cpu/Carsome-financing-analysis)
 
