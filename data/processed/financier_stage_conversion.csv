@@ -1,0 +1,13 @@
+financier,financing_cases,approved_cases,accepted_cases,submitted_cases,received_cases,financing_to_approval_pct,approval_to_acceptance_pct,acceptance_to_submission_pct,submission_to_received_pct
+"Missing / Blank",728,166,0,0,0,22.80,0.00,NULL,NULL
+Maybank,151,151,151,135,110,100.00,100.00,89.40,81.48
+"Carsome Capital",446,446,446,372,235,100.00,100.00,83.41,63.17
+"Toyota Capital",257,257,257,225,162,100.00,100.00,87.55,72.00
+"Public Bank Berhad",109,109,109,88,59,100.00,100.00,80.73,67.05
+Ambank,241,241,241,210,171,100.00,100.00,87.14,81.43
+CIMB,63,63,63,61,44,100.00,100.00,96.83,72.13
+"Affin Bank Berhad",24,24,24,18,11,100.00,100.00,75.00,61.11
+"Bank Muamalat Malaysia Berhad",25,25,25,23,13,100.00,100.00,92.00,56.52
+RHB,8,8,8,8,7,100.00,100.00,100.00,87.50
+Chailease,2,2,2,1,1,100.00,100.00,50.00,100.00
+"Hong Leong Bank Berhad",8,8,8,8,6,100.00,100.00,100.00,75.00
