@@ -2,6 +2,8 @@
 
 ### From Operational Data to Business Insights
 
+[English](./README.md) | [中文项目介绍](./README_CN.md)
+
 **SQL · Python · Pandas · MySQL · Streamlit · Plotly**
 
 > An independent business analytics portfolio project examining
